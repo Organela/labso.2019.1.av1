@@ -1,0 +1,15 @@
+andre18
+andre1.txt
+andre2.txt
+andre3.txt
+backup-andre
+final.txt
+instrucoes.txt
+log
+pasta1
+pasta2
+pasta3
+prova1-2019.txt
+prova1-andre.txt
+README.md
+ultimocomando.txt
